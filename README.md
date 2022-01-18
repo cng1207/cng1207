@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @cng1207 
-- 👀 I’m interested in data analytics and visualizations
-- 🌱 I’m currently learning SAS and Pyspark
-- 💞️ I’m looking to collaborate on this work
+- 👋 Hi, I’m Craig Ng a student studying Information and Decision Science at UIC
+- 👀 I’m pursuing data analytics and visualizations
+- 🌱 I’m proficient in R, Java and Python 
+- I'm currently learning Deep Learning techniques such as LTSM and other Neural Networks
+- I'm well versed in Business Forecasting models (ARIMA), Logistic/Linear Regression, and conducting research into the stock market with Backtesting
 - 📫 How to reach me cng24@uic.edu
 
 <!---
