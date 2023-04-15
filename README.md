@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Craig Ng a student studying Information and Decision Science at UIC
-- 👀 I’m pursuing data analytics and visualizations
+- 👋 Hi, I’m Craig Ng a recent graduate with Information and Decision Science at UIC
+- 👀 I’m pursuing data mining and deep-learning. 
 - 🌱 I’m proficient in R, Java and Python 
-- I'm currently learning Deep Learning techniques such as LTSM and other Neural Networks
-- I'm well versed in Business Forecasting models (ARIMA), Logistic/Linear Regression, and conducting research into the stock market with Backtesting
+- I'm currently learning Deep Learning techniques such as openCV and tensorflow
+- I'm well versed in Business Forecasting models (ARIMA), Logistic/Linear Regression, and conducting research into the stock market with Backtesting (LSTM)
 - 📫 How to reach me cng24@uic.edu
 
 <!---
